@@ -1,0 +1,2 @@
+# Bash
+notes on bash :)
