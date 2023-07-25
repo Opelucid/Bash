@@ -1,2 +1,2 @@
 # Bash
-notes on bash :)
+[notes on bash :)](https://github.com/Opelucid/Bash/blob/main/GNU%20Shell.md)
