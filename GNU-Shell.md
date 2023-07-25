@@ -4,6 +4,7 @@ title: GNU Shell Intro
 desc: ''
 updated: 1690303261338
 created: 1690298138019
+permalink: /GNU-Shell.md
 ---
 
 ## Beginner Commands
